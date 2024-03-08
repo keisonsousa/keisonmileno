@@ -5,6 +5,12 @@
 - 🌱 Atualmente estou aprendendo ADS
 - 📫 email: devkeison@gmail.com
 
+<div>
+  <a href="https://beacons.ai/keisonsousa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keisonsousa&show_icon=true&theme=dark&iclude_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keisonsousa&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -21,3 +27,4 @@
   <a href="https://www.linkedin.com/in/keison-mileno-14775a184" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
